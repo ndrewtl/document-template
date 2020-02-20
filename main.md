@@ -4,6 +4,8 @@ comments: |
   vi: ft=tex
 header-includes:
 - \usepackage{amsthm}
+- \title{Title}
+- \author{Author Name}
 ---
 
-# Title
+\maketitle
