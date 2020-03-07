@@ -1,7 +1,5 @@
 ---
-comments: |
-  tell vim to treat this as tex
-  vi: ft=tex
+vi: set spell ft=tex
 header-includes:
 - \usepackage{amsthm}
 - \title{Title}
